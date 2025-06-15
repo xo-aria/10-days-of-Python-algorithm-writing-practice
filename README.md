@@ -11,3 +11,7 @@
 | 8   | Binary Tree Inorder Traversal| Traverse a binary tree in left-root-right order (recursively/iteratively).|
 | 9   | Single Number                | Find the number that appears only once (using XOR).                    |
 | 10  | Move Zeroes                  | Move all zeros to the end of an array while keeping non-zero order.    |
+
+
+___
+## All codes writed without AI

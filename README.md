@@ -1,13 +1,17 @@
-## **10-Day LeetCode Easy Challenge ( *All codes writed without AI* )**
-| Status | Day | Title                        | Summary                                                                 |
-|--------|-----|------------------------------|-------------------------------------------------------------------------|
-|    :white_check_mark:    | 1   | Two Sum                      | Find two numbers in an array that add up to a target (use hashmap).     |
-|    :white_check_mark:    | 2   | Reverse String               | Reverse a string in-place using two pointers.                          |
-|    :white_check_mark:    | 3   | Palindrome Number            | Check if a number reads the same backward (e.g., 121).                 |
-|    :white_check_mark:    | 4   | Valid Parentheses            | Verify if brackets in a string are correctly matched (use a stack).    |
-|    :white_check_mark:    | 5   | Merge Two Sorted Lists       | Combine two sorted linked lists into one sorted list.                  |
-|    :white_check_mark:    | 6   | Maximum Subarray             | Find the contiguous subarray with the largest sum (Kadane’s algorithm).|
-|    :white_check_mark:    | 7   | Climbing Stairs              | Count ways to climb stairs (1 or 2 steps at a time, like Fibonacci).   |
-|    :white_check_mark:    | 8   | Binary Tree Inorder Traversal| Traverse a binary tree in left-root-right order (recursively/iteratively).|
-|    :white_check_mark:    | 9   | Single Number                | Find the number that appears only once (using XOR).                    |
-|    :white_check_mark:    | 10  | Move Zeroes                  | Move all zeros to the end of an array while keeping non-zero order.    |
+## **14-Day Coding Challenge Plan ( *All codes writed without AI* )**
+| Status | Day | Title                        | Summary (English)                                                                 |
+|--------|-----|------------------------------|----------------------------------------------------------------------------------|
+| ✅     | 1   | Two Sum                      | Find two numbers in an array that sum to a target (use hashmap for O(1) lookups). |
+| ✅     | 2   | Reverse String               | Reverse a string in-place using two pointers (O(1) space).                       |
+| ✅     | 3   | Palindrome Number            | Check if a number reads the same backward (e.g., 121). Handle negatives.         |
+| ✅     | 4   | Valid Parentheses            | Validate if brackets are correctly nested/closed (use a stack).                  |
+| ✅     | 5   | Merge Two Sorted Lists       | Combine two sorted linked lists into one (O(n) time, in-place).                  |
+| ✅     | 6   | Maximum Subarray             | Find the contiguous subarray with the largest sum (Kadane’s algorithm).         |
+| ✅     | 7   | Climbing Stairs              | Count distinct ways to climb stairs (1 or 2 steps; Fibonacci pattern).          |
+| 🔲     | 8   | **Binary Search**            | Search a target in a sorted array (O(log n) time). Handle edge cases.           |
+| 🔲     | 9   | **Linked List Cycle**        | Detect if a linked list has a cycle (Floyd’s Tortoise and Hare algorithm).       |
+| 🔲     | 10  | **Valid Anagram**            | Determine if two strings are anagrams (e.g., "listen" vs. "silent").            |
+| 🔲     | 11  | **First Missing Positive**   | Find the smallest missing positive integer in an array (O(n) time, O(1) space). |
+| 🔲     | 12  | **Rotate Image**             | Rotate an N×N matrix 90 degrees clockwise (in-place).                           |
+| 🔲     | 13  | **Word Break**               | Check if a string can be segmented into dictionary words (DP solution).         |
+| 🔲     | 14  | **Longest Increasing Subsequence** | Find the length of the longest subsequence (DP or patience sorting).       |

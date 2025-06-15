@@ -1,4 +1,4 @@
-## **10-Day LeetCode Easy Challenge**  
+## **10-Day LeetCode Easy Challenge ( *All codes writed without AI* )**  
 | Day | Title                        | Summary                                                                 |
 |-----|------------------------------|-------------------------------------------------------------------------|
 | 1   | Two Sum                      | Find two numbers in an array that add up to a target (use hashmap).     |
@@ -11,7 +11,3 @@
 | 8   | Binary Tree Inorder Traversal| Traverse a binary tree in left-root-right order (recursively/iteratively).|
 | 9   | Single Number                | Find the number that appears only once (using XOR).                    |
 | 10  | Move Zeroes                  | Move all zeros to the end of an array while keeping non-zero order.    |
-
-
-___
-## All codes writed without AI

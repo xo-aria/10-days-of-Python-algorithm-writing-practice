@@ -1,4 +1,4 @@
-def is_valid_parentheses(s):
+def valid_parentheses(s):
     box = []
     
     for char in s:
@@ -13,3 +13,6 @@ def is_valid_parentheses(s):
                 return False
                 
     return not box
+
+print(valid_parentheses('({})'))
+print(valid_parentheses('({[})'))
